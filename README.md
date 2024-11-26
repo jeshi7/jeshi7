@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning front-end development
 - 🌱 I’m currently learning HTML, CSS, JS, React, Python
+- I make changes
